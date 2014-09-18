@@ -1,4 +1,4 @@
-package info.androidhive.tabsswipe;
+package exchange.rate.app;
 
 import info.androidhive.tabsswipe.R;
 import android.os.Bundle;
@@ -7,15 +7,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class Analysis extends Fragment {
+public class Rates extends Fragment {
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
-		View rootView = inflater.inflate(R.layout.fragment_analysis, container, false);
+		View rootView = inflater.inflate(R.layout.fragment_rates, container, false);
 		
 		return rootView;
 	}
-
 }

@@ -1,5 +1,6 @@
-package info.androidhive.tabsswipe;
+package exchange.rate.app;
 
+import info.androidhive.tabsswipe.R;
 import info.androidhive.tabsswipe.adapter.TabsPagerAdapter;
 import android.annotation.TargetApi;
 import android.app.ActionBar;

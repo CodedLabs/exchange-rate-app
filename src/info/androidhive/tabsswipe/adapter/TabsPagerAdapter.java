@@ -1,8 +1,8 @@
 package info.androidhive.tabsswipe.adapter;
 
-import info.androidhive.tabsswipe.Rates;
-import info.androidhive.tabsswipe.Analysis;
-import info.androidhive.tabsswipe.Convertor;
+import exchange.rate.app.Analysis;
+import exchange.rate.app.Convertor;
+import exchange.rate.app.Rates;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;

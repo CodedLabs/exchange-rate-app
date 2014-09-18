@@ -13,4 +13,5 @@
         <item>Euro</item>
         <item>Cfa</item>
     </string-array>
+        <string name="ok">Ok</string>
 </resources>
